@@ -1,8 +1,0 @@
-﻿  main.cpp
-C:\Users\pinza\source\repos\ProiectPG\ProiectPG\main.cpp(116,13): warning C4244: 'initializing': conversion from 'GLuint' to 'float', possible loss of data
-C:\Users\pinza\source\repos\ProiectPG\ProiectPG\main.cpp(117,13): warning C4244: 'initializing': conversion from 'GLuint' to 'float', possible loss of data
-C:\Users\pinza\source\repos\ProiectPG\ProiectPG\main.cpp(122,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\pinza\source\repos\ProiectPG\ProiectPG\main.cpp(123,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\pinza\source\repos\ProiectPG\ProiectPG\main.cpp(125,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\pinza\source\repos\ProiectPG\ProiectPG\main.cpp(126,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  ProiectPG.vcxproj -> C:\Users\pinza\source\repos\ProiectPG\x64\Debug\ProiectPG.exe
